@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "FuturaPT_Book";
+    src: url("../libs/fonts/FuturaPT/FuturaPT_Book/FuturaPT_Book.eot");
+    src: local("FuturaPT_Book"), local("FuturaPT_Book"),
+        url("../libs/fonts/FuturaPT/FuturaPT_Book/FuturaPT_Book.eot") format("embedded-opentype"),
+        url("../libs/fonts/FuturaPT/FuturaPT_Book/FuturaPT_Book.woff") format("woff"),
+        url("../libs/fonts/FuturaPT/FuturaPT_Book/FuturaPT_Book.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Futura_PT_Demi";
+    src: url("../libs/fonts/FuturaPT/FuturaPT_Demi/FuturaPT_Demi.eot");
+    src: local("Futura_PT_Demi"), local("Futura_PT_Demi"),
+        url("../libs/fonts/FuturaPT/FuturaPT_Demi/FuturaPT_Demi.eot") format("embedded-opentype"),
+        url("../libs/fonts/FuturaPT/FuturaPT_Demi/FuturaPT_Demi.woff") format("woff"),
+        url("../libs/fonts/FuturaPT/FuturaPT_Demi/FuturaPT_Demi.ttf") format("truetype");
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: "FuturaPT_Heavy";
+    src: url("../libs/fonts/FuturaPT/FuturaPT_Heavy/FuturaPT_Heavy.eot");
+    src: local("FuturaPT_Heavy"), local("FuturaPT_Heavy"),
+        url("../libs/fonts/FuturaPT/FuturaPT_Heavy/FuturaPT_Heavy.eot") format("embedded-opentype"),
+        url("../libs/fonts/FuturaPT/FuturaPT_Heavy/FuturaPT_Heavy.woff") format("woff"),
+        url("../libs/fonts/FuturaPT/FuturaPT_Heavy/FuturaPT_Heavy.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+}
